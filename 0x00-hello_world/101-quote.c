@@ -3,7 +3,7 @@
 
 
 /**
- *main - Entry point
+ *main - prints exactly and that piece of is art useful
  *
  *Return: Always 0 (Success)
  */
